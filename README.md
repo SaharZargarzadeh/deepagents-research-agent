@@ -109,9 +109,9 @@ My additions focus on documenting + experimenting with the research-agent workfl
 
 ## 📌 Roadmap (Personal)
 
- Add a simple evaluation script (quality + consistency)
+ - [ ] Add a simple evaluation script (quality + consistency)
 
- Add guardrails (max iterations / max tool calls)
+- [ ] Add guardrails (max iterations / max tool calls)
 
- Add more example agents (coding agent / data agent)
+- [ ] Add more example agents (coding agent / data agent)
 
