@@ -51,13 +51,13 @@ python -m venv .venv
 ```
 ### 2) Install dependencies
 
-### For local development (uses src/):
+**For local development (uses src/):**
 
 ```bash
 pip install -e .
 ```
 
-### For the public library only (pip install):
+**For the public library only (pip install):**
 
 ```bash
 pip install deepagents
@@ -65,7 +65,7 @@ pip install deepagents
 
 ### 3) Research demo dependencies
 
-### The research agent uses Tavily search:
+**The research agent uses Tavily search:**
 
 ```bash
 pip install tavily-python
@@ -83,7 +83,7 @@ set TAVILY_API_KEY=YOUR_KEY
 python examples/research/research_agent.py
 ```
 
-### Run the notebook
+**Run the notebook**
 ```bash
 jupyter notebook
 # then open:
