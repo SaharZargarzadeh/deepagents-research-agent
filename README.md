@@ -78,7 +78,7 @@ set TAVILY_API_KEY=YOUR_KEY
 ```
 
 ## ▶️ Run the Research Agent
-** Run the .py version **
+**Run the .py version**
 ```bash
 python examples/research/research_agent.py
 ```
